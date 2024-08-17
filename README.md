@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kabbashi Gasim</h1>
 <h3 align="center">Software Developer, and a passionate Game Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.webp](https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif)"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabashi1999&label=Profile%20views&color=0e75b6&style=flat" alt="kabashi1999" /> </p>
 
